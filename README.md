@@ -1,7 +1,7 @@
 # Restaurant-Website-Gericht
 Restaurant Landing Page
 
-This is a website landing page for a restaurant that has been created using ReactJS, based on a design in Figma. Website was developed with the assistance of an instructional video on YouTube. I am not the sole owner of the code.
+This is a website landing page for a restaurant that has been created using ReactJS, based on a design in Figma. Website was developed with the assistance of an instructional video on YouTube. 
 
 
 ### Key elements of the implementation
